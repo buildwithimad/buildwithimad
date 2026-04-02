@@ -1,18 +1,18 @@
 # 💫 About Me
-👋 Hi, I’m **Imad Hussain Khan**, a Full Stack Web Developer specializing in **MERN Stack & Next.js**.<br><br>
-💼 Currently working as a **Full Stack Web Developer at Creative Mark** in **Riyadh, Saudi Arabia**, building scalable dashboards, SaaS applications, and secure backend systems.<br><br>
-🚀 I focus on writing clean, maintainable code, optimizing performance, and delivering real business value.<br><br>
-🌱 Always learning. Always building.
+Hi, I’m **Imad Hussain Khan**, a Full Stack Web Developer specializing in **MERN Stack & Next.js**.<br><br>
+Currently working as a **Software Engineer at Middle East Investment Co** in **Riyadh, Saudi Arabia**, building scalable dashboards, Managing ERPNext, SaaS applications, and secure backend systems.<br><br>
+I focus on writing clean, maintainable code, optimizing performance, and delivering real business value.<br><br>
+Always learning. Always building.
 
 ---
 
 # 🚀 Creator of Create Enterprise Backend
 
-👨‍💻 **Author of `npx create-enterprise-backend`** — an enterprise-grade backend scaffolding CLI that generates **production-ready backends in seconds**.
+**Author of `npx create-enterprise-backend`** — an enterprise-grade backend scaffolding CLI that generates **production-ready backends in seconds**.
 
 ⚠️ **Beta (v0.1.2)** — Full enterprise features for **Fastify + Supabase**.
 
-✨ **Features**:  
+**Features**:  
 Fastify & Express · MongoDB & Supabase · JWT Authentication · RBAC · Modular Architecture
 
 ---
